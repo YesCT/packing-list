@@ -14,7 +14,7 @@ outlet adapter
 portable backup drive
 usb to micro usb cable (battery pack)
 usb to mini usb cable (for backup drive)
-usb to usb c
+usb to usb c cable (for phone)
 fitbit usb charger cable
 fitbit
 laptop
